@@ -1,3 +1,0 @@
-Azure CLI Test Modules
-======================
-
